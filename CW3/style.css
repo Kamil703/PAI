@@ -1,0 +1,74 @@
+.form{
+    float:left;
+    margin-top: 30px;
+    margin-right: 20px;
+    }
+    .article1{
+    float:left;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    }
+    .article2{
+    float:left;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    }
+    .article3{
+    float:left;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    }
+    #picture1{
+    clear: both;
+    width: 250px; 
+    height: 150px;
+    float:center;	
+    }
+    #picture2{
+    float:center;
+    width: 250px; 
+    height: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+    .stopka{
+    clear: both;
+    margin-top: 30px;
+    background-color:blue;
+    }
+    .flexb-start{ 
+        display: flex;
+        justify-content: start;
+        margin-bottom: 30px;
+    }
+    .flexb-end{ 
+        display: flex;
+        justify-content: end;
+        margin-bottom: 30px;
+    }
+    .flexb-center{ 
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+    .flexb-sbetween{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 30px;
+    }
+    .flexb-saround{
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 30px;
+    }
+    .flexb-evenly{
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 30px;
+    }
